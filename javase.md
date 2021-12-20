@@ -28,3 +28,30 @@
 
 ## 生成javadoc 文件
 - cmd: javadoc -d myhello(name) -author -version HW.java(要生成doc的java文件)
+
+## java API文档
+![image](https://user-images.githubusercontent.com/87599765/146736639-9c77b1c2-1ed3-4820-8515-5ecd5b880f0f.png)
+## HelloWorld.java文件详解
+![image](https://user-images.githubusercontent.com/87599765/146742631-271f4d5a-d302-4228-a43f-601ccc05b4f4.png)
+- 生成字节码文件 Hello.class 、 Person.class 、 Animal.class
+
+## 题目
+| question | answer |
+| --- | --- |
+| 1.jdk jre jvm 关系？ jdk jre主要结构？ | jdk = jre + java开发工具(java.exe javac.exe javadoc.exe) / jre = jvm + java核心类库![image](https://user-images.githubusercontent.com/87599765/146745992-0d00672b-67d3-4dba-a58a-4c33c58fc95a.png) |
+| 2.为什么配置path环境变量？怎么？ | 希望在任何位置都能使用java,配置JAVA_HOME paht里%JAVA_HOME%/bin. |
+| 3.常见的命令行操作？4个至少 | 1.cd 2.md 3.rd 4.cd.. 5.cd/ |
+| 4.创建如下的类：姓名：fwzlym 学号：2021***** 地址： 阜阳市****** | ![image](https://user-images.githubusercontent.com/87599765/146756391-cd69dd08-2e1e-4eb4-9c2e-213c7e2f166d.png) |
+| 5.编译和运行上述代码的指令 | javac ChairMan.java / java ChairMan |
+
+<details><summary>应用程序</summary>
+<p>
+
+#### 应用程序 = 算法 + 数据结构
+
+    ```ruby
+       programs = algorithm + data structure
+    ```
+
+</p>
+</details>
