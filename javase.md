@@ -19,4 +19,12 @@
 ![image](https://user-images.githubusercontent.com/87599765/146710660-ce242103-1f3d-4763-96ff-5928f5921d87.png)
 ![image](https://user-images.githubusercontent.com/87599765/146710721-c0c062a7-2c3e-49d4-aecc-9e9298e13f82.png)
 ![image](https://user-images.githubusercontent.com/87599765/146711760-877f01d0-b979-4b13-955d-e4c8b77c2d61.png)
+## java -- HelloWorld
+![image](https://user-images.githubusercontent.com/87599765/146714315-5c106d8e-2060-4b1e-95df-2147c3c8a1ce.png)
+- windows不区分大小写！
 
+## 注释 / 注解
+![image](https://user-images.githubusercontent.com/87599765/146716548-47c3c580-d05e-43ab-8e3d-38138078b1c6.png)
+
+## 生成javadoc 文件
+- cmd: javadoc -d myhello(name) -author -version HW.java(要生成doc的java文件)
