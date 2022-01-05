@@ -38,3 +38,9 @@
 - 注解
 #### 基于xml方式创建对象
 ![image](https://user-images.githubusercontent.com/87599765/148070079-e4e8a43d-997f-4af0-a56c-f603978b54bd.png)
+#### 属性注入
+|方式|图示|
+|---|---|
+|set方法注入|![image](https://user-images.githubusercontent.com/87599765/148168986-50fe7c53-fdf5-4575-ae61-3530289372db.png)|
+|有参构造方法注入|![image](https://user-images.githubusercontent.com/87599765/148169068-4cfc2b1a-ad0b-4695-8813-f4647df6866f.png)|
+|p命名空间--set注入|![image](https://user-images.githubusercontent.com/87599765/148169191-dd758af5-6ce8-4cd0-8714-4b74245658f7.png)|
