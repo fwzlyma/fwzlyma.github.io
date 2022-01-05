@@ -55,3 +55,10 @@
 |注入属性--外部bean|图示|
 |---|---|
 |给userService中的userDao注入接口实现类|![image](https://user-images.githubusercontent.com/87599765/148173397-9d422bf8-12b8-4314-8f4c-8bb50cfdf414.png)![image](https://user-images.githubusercontent.com/87599765/148173524-1ea9bf2f-d9a0-4818-a01d-738a3a22b990.png)|
+
+#### 注入内部bean/级联赋值
+|注入方法|图示|
+|---|---|
+|注入内部bean|![image](https://user-images.githubusercontent.com/87599765/148176158-30cd5b22-1acd-4094-8f1f-07e67d156ef8.png)![image](https://user-images.githubusercontent.com/87599765/148176271-a8919c00-8b7a-4ac6-a6e5-e2a44d920754.png)|
+|注入外部bean、特殊符号|![image](https://user-images.githubusercontent.com/87599765/148177811-db2e8ed2-fb41-4279-95fd-312f1cde1ccc.png)|
+|级联赋值|![image](https://user-images.githubusercontent.com/87599765/148178903-1735ac38-fff1-4de0-b78c-d49d53039a3b.png)![image](https://user-images.githubusercontent.com/87599765/148179098-cfbd3da2-64cd-432d-8489-96d87b920a18.png)|
