@@ -85,3 +85,7 @@
 |singleton--单实例对象|![image](https://user-images.githubusercontent.com/87599765/148221128-b5980aac-973b-427c-9980-930b7c92dad3.png)![image](https://user-images.githubusercontent.com/87599765/148221061-9e8f9d1d-dd9b-4bc3-8969-d6c03fe32f94.png)|
 |prototype--多实例对象|![image](https://user-images.githubusercontent.com/87599765/148221233-0c948309-40d5-422e-885e-a442b273c60f.png)![image](https://user-images.githubusercontent.com/87599765/148221291-496939ee-8947-4bdc-b63c-e45574f0e0ad.png)|
 |区别|![image](https://user-images.githubusercontent.com/87599765/148221478-ae5b00dd-afd8-4ee0-be97-943e26766640.png)|
+
+|bean生命周期|图示|
+|---|---|
+|![image](https://user-images.githubusercontent.com/87599765/148224581-bb83d254-7796-4f34-b5b9-15d834d5e457.png)![image](https://user-images.githubusercontent.com/87599765/148224655-e01acbac-a852-45fb-9ecd-77511504bc52.png)|![image](https://user-images.githubusercontent.com/87599765/148224804-3d95ca81-64ed-412a-8030-e7679cee201c.png)![image](https://user-images.githubusercontent.com/87599765/148224849-bee991b6-f545-4165-85d5-4e2f047462c3.png)|
