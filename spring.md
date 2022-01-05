@@ -89,3 +89,4 @@
 |bean生命周期|图示|
 |---|---|
 |![image](https://user-images.githubusercontent.com/87599765/148224581-bb83d254-7796-4f34-b5b9-15d834d5e457.png)![image](https://user-images.githubusercontent.com/87599765/148224655-e01acbac-a852-45fb-9ecd-77511504bc52.png)|![image](https://user-images.githubusercontent.com/87599765/148224804-3d95ca81-64ed-412a-8030-e7679cee201c.png)![image](https://user-images.githubusercontent.com/87599765/148224849-bee991b6-f545-4165-85d5-4e2f047462c3.png)|
+|完整生命周期|![image](https://user-images.githubusercontent.com/87599765/148225771-e27fc5a1-2ad2-4813-9468-4d41a0bd49c3.png)|
