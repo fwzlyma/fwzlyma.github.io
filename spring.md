@@ -50,3 +50,8 @@
 |---|---|
 |null|![image](https://user-images.githubusercontent.com/87599765/148170042-3aae35e1-a4dd-4d74-a409-ca6e5ae12111.png)|
 |<<南京>>|![image](https://user-images.githubusercontent.com/87599765/148170256-1ba3f7ed-e032-4a85-a82d-5662dda4aea0.png)|
+
+#### 注入外部bean
+|注入属性--外部bean|图示|
+|---|---|
+|给userService中的userDao注入接口实现类|![image](https://user-images.githubusercontent.com/87599765/148173397-9d422bf8-12b8-4314-8f4c-8bb50cfdf414.png)![image](https://user-images.githubusercontent.com/87599765/148173524-1ea9bf2f-d9a0-4818-a01d-738a3a22b990.png)|
