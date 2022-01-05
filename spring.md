@@ -78,3 +78,10 @@
 |...|图示|
 |---|---|
 |FactoryBean|![image](https://user-images.githubusercontent.com/87599765/148219554-db7cac40-5087-495b-b165-4538dfb08d8c.png)![image](https://user-images.githubusercontent.com/87599765/148219705-7ab81d86-859e-4830-bb83-f5d00d5238a5.png)|
+
+#### bean作用域/生命周期
+|bean作用域|图示|
+|---|---|
+|singleton--单实例对象|![image](https://user-images.githubusercontent.com/87599765/148221128-b5980aac-973b-427c-9980-930b7c92dad3.png)![image](https://user-images.githubusercontent.com/87599765/148221061-9e8f9d1d-dd9b-4bc3-8969-d6c03fe32f94.png)|
+|prototype--多实例对象|![image](https://user-images.githubusercontent.com/87599765/148221233-0c948309-40d5-422e-885e-a442b273c60f.png)![image](https://user-images.githubusercontent.com/87599765/148221291-496939ee-8947-4bdc-b63c-e45574f0e0ad.png)|
+|区别|![image](https://user-images.githubusercontent.com/87599765/148221478-ae5b00dd-afd8-4ee0-be97-943e26766640.png)|
