@@ -44,3 +44,9 @@
 |set方法注入|![image](https://user-images.githubusercontent.com/87599765/148168986-50fe7c53-fdf5-4575-ae61-3530289372db.png)|
 |有参构造方法注入|![image](https://user-images.githubusercontent.com/87599765/148169068-4cfc2b1a-ad0b-4695-8813-f4647df6866f.png)|
 |p命名空间--set注入|![image](https://user-images.githubusercontent.com/87599765/148169191-dd758af5-6ce8-4cd0-8714-4b74245658f7.png)|
+
+#### 注入特殊值
+|特殊值|图示|
+|---|---|
+|null|![image](https://user-images.githubusercontent.com/87599765/148170042-3aae35e1-a4dd-4d74-a409-ca6e5ae12111.png)|
+|<<南京>>|![image](https://user-images.githubusercontent.com/87599765/148170256-1ba3f7ed-e032-4a85-a82d-5662dda4aea0.png)|
