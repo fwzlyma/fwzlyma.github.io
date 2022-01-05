@@ -62,3 +62,12 @@
 |注入内部bean|![image](https://user-images.githubusercontent.com/87599765/148176158-30cd5b22-1acd-4094-8f1f-07e67d156ef8.png)![image](https://user-images.githubusercontent.com/87599765/148176271-a8919c00-8b7a-4ac6-a6e5-e2a44d920754.png)|
 |注入外部bean、特殊符号|![image](https://user-images.githubusercontent.com/87599765/148177811-db2e8ed2-fb41-4279-95fd-312f1cde1ccc.png)|
 |级联赋值|![image](https://user-images.githubusercontent.com/87599765/148178903-1735ac38-fff1-4de0-b78c-d49d53039a3b.png)![image](https://user-images.githubusercontent.com/87599765/148179098-cfbd3da2-64cd-432d-8489-96d87b920a18.png)|
+
+#### 集合类型属性注入
+|集合|图示|
+|---|---|
+|数组|![image](https://user-images.githubusercontent.com/87599765/148197699-7799932a-6534-42e7-b7ca-88eceb08d41a.png)|
+|list|![image](https://user-images.githubusercontent.com/87599765/148197776-dc47a6bf-4f0e-4567-b16c-96a1b7ee3479.png)|
+|map|![image](https://user-images.githubusercontent.com/87599765/148197890-3066e400-b5d4-43d7-9047-bf8108c9fc53.png)|
+|set|![image](https://user-images.githubusercontent.com/87599765/148197953-7be8d3e6-d154-43ed-a62a-0b4ec0792ace.png)|
+|补充：数组输出为字符串|![image](https://user-images.githubusercontent.com/87599765/148198077-10cca770-5494-467a-a77f-28d5e786a28f.png)|
