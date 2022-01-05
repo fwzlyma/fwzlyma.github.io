@@ -71,3 +71,5 @@
 |map|![image](https://user-images.githubusercontent.com/87599765/148197890-3066e400-b5d4-43d7-9047-bf8108c9fc53.png)|
 |set|![image](https://user-images.githubusercontent.com/87599765/148197953-7be8d3e6-d154-43ed-a62a-0b4ec0792ace.png)|
 |补充：数组输出为字符串|![image](https://user-images.githubusercontent.com/87599765/148198077-10cca770-5494-467a-a77f-28d5e786a28f.png)|
+|集合类型注入对象|![image](https://user-images.githubusercontent.com/87599765/148203103-f373e1a2-265f-4946-9d57-c97f7e55710e.png)|
+|提取注入部分--公共使用|![image](https://user-images.githubusercontent.com/87599765/148203316-d0f0d02d-9b2b-4401-99fd-983792a50de8.png)![image](https://user-images.githubusercontent.com/87599765/148203410-04354c93-1c83-4c94-bc5d-86b585a74a1c.png)|
