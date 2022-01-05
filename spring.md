@@ -75,4 +75,6 @@
 |提取注入部分--公共使用,需要引入util名称空间|![image](https://user-images.githubusercontent.com/87599765/148203316-d0f0d02d-9b2b-4401-99fd-983792a50de8.png)![image](https://user-images.githubusercontent.com/87599765/148203410-04354c93-1c83-4c94-bc5d-86b585a74a1c.png)|
 
 #### FactoryBean
+|...|图示|
+|---|---|
 |FactoryBean|![image](https://user-images.githubusercontent.com/87599765/148219554-db7cac40-5087-495b-b165-4538dfb08d8c.png)![image](https://user-images.githubusercontent.com/87599765/148219705-7ab81d86-859e-4830-bb83-f5d00d5238a5.png)|
