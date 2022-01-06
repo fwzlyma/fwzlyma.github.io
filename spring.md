@@ -96,3 +96,11 @@
 |---|---|
 |![image](https://user-images.githubusercontent.com/87599765/148319340-21cef18e-8576-479b-894c-18d8b5e4bdbd.png)|![image](https://user-images.githubusercontent.com/87599765/148319400-b711d6cc-1597-4f69-b58c-1a6f12af596d.png)|
 |![image](https://user-images.githubusercontent.com/87599765/148319447-f7d9c324-0b07-4082-b085-894d6386c9fd.png)|![image](https://user-images.githubusercontent.com/87599765/148319494-6b0d00a8-b431-4ca6-b8de-02957f69ffd5.png)|
+
+#### bean引入外部属性文件--配置德鲁伊连接池连接mysql
+|步骤|图示|
+|---|---|
+|引入名称空间|![image](https://user-images.githubusercontent.com/87599765/148411022-2bcb2835-ad0b-456d-b7ff-766e4d2bd065.png)|
+|外部属性文件|![image](https://user-images.githubusercontent.com/87599765/148411104-2f92c658-d31d-4b5b-a55d-1ba36853b782.png)|
+|直接连接xml文件配置|![image](https://user-images.githubusercontent.com/87599765/148411258-a0dfca7c-c0d7-44d4-aaa6-2163d4975595.png)|
+|外部属性文件连接|![image](https://user-images.githubusercontent.com/87599765/148412633-e3d3979c-f12e-4f80-a4a8-9a183ad7f28d.png)|
