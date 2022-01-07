@@ -108,7 +108,7 @@
 #### 基于注解完成对象创建、属性注入
 - spring里的组件扫描注解：@Component @Service @Contorller @Repository  
 - spring里的属性注入注解：@AutoWired @Qualifier @Resource
-![image](https://user-images.githubusercontent.com/87599765/148564836-4170c627-f66b-4c85-803f-b4cea14a67e4.png)
+![image](https://user-images.githubusercontent.com/87599765/148565011-dc1d2a28-1054-4f9c-9b20-a930d28bc4ce.png)
 
 #### 
 |完整步骤|图示|
