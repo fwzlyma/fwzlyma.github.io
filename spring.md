@@ -104,3 +104,6 @@
 |外部属性文件|![image](https://user-images.githubusercontent.com/87599765/148411104-2f92c658-d31d-4b5b-a55d-1ba36853b782.png)|
 |直接连接xml文件配置|![image](https://user-images.githubusercontent.com/87599765/148411258-a0dfca7c-c0d7-44d4-aaa6-2163d4975595.png)|
 |外部属性文件连接|![image](https://user-images.githubusercontent.com/87599765/148412633-e3d3979c-f12e-4f80-a4a8-9a183ad7f28d.png)|
+
+#### 基于注解完成对象创建、属性注入
+- spring里的注解：@Component @Service @Contorller @Repository
