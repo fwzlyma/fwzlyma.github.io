@@ -133,3 +133,7 @@
 |步骤3：service类组件扫描注解|![image](https://user-images.githubusercontent.com/87599765/148568280-cc306033-b177-4b39-8ee2-8f0ce6c5f53c.png)|
 |步骤4：需要属性注入的对象进行注解|![image](https://user-images.githubusercontent.com/87599765/148568400-552f4d1f-bdde-411d-a031-00becf9ea9aa.png)|
 |bean_annoProperty.xml|![image](https://user-images.githubusercontent.com/87599765/148568494-3bacc95f-38d9-45a8-9d62-5e5eaebe70e3.png)|
+
+####
+#### 指定属性注入的实现类--autowired配合qualifier使用
+![image](https://user-images.githubusercontent.com/87599765/148569433-e9d171da-6e48-41ec-acba-178b4c088600.png)
