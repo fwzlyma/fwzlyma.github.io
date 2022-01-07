@@ -146,3 +146,7 @@
 
 #### @Value(value = "**") 注入普通类型
 ![image](https://user-images.githubusercontent.com/87599765/148570919-4d387ba5-d8e0-4423-802c-cf6790c2c25a.png)
+
+#### 完全注解开发-了解
+![image](https://user-images.githubusercontent.com/87599765/148572743-258dab31-25b6-4f92-a188-b46ad47211e5.png)
+![image](https://user-images.githubusercontent.com/87599765/148572839-a9d077c0-ece3-4ef2-9aa7-a0ea4aff24ce.png)
