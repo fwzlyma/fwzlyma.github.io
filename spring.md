@@ -123,3 +123,13 @@
 |---|---|
 |设置扫描|![image](https://user-images.githubusercontent.com/87599765/148564218-a589383b-c72f-4087-8535-c13e054101f8.png)|
 |设置不扫描|![image](https://user-images.githubusercontent.com/87599765/148564366-5e425d8a-5341-4a2d-be85-41ebdff53da6.png)|
+
+####
+|spring属性注入基于注解|图示|
+|---|---|
+|步骤1：创建UserDao、UserDaoImpl、UserService|![image](https://user-images.githubusercontent.com/87599765/148567919-10490502-6ed7-4807-8d48-83769cd16d83.png)|
+|原来属性注入：|![image](https://user-images.githubusercontent.com/87599765/148568050-72138a64-1813-4378-be7f-36a7518e9fcf.png)|
+|步骤2：接口实现类注解|![image](https://user-images.githubusercontent.com/87599765/148568149-e693a796-47d0-4356-9146-5571bdbe5105.png)|
+|步骤3：service类组件扫描注解|![image](https://user-images.githubusercontent.com/87599765/148568280-cc306033-b177-4b39-8ee2-8f0ce6c5f53c.png)|
+|步骤4：需要属性注入的对象进行注解|![image](https://user-images.githubusercontent.com/87599765/148568400-552f4d1f-bdde-411d-a031-00becf9ea9aa.png)|
+|bean_annoProperty.xml|![image](https://user-images.githubusercontent.com/87599765/148568494-3bacc95f-38d9-45a8-9d62-5e5eaebe70e3.png)|
