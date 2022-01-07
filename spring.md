@@ -107,3 +107,8 @@
 
 #### 基于注解完成对象创建、属性注入
 - spring里的注解：@Component @Service @Contorller @Repository
+|完整步骤|图示|
+|步骤1：引入aop jar包|![image](https://user-images.githubusercontent.com/87599765/148559601-f7d3be73-688b-4485-8f1a-df31608c4cf4.png)|
+|步骤2：引入名称空间context|![image](https://user-images.githubusercontent.com/87599765/148560115-80f04106-d4cf-4d35-b422-b323b7805d03.png)|
+|步骤3：加注解、扫描文件夹|![Uploading image.png…]()|
+|步骤4：测试|
