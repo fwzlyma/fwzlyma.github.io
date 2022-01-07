@@ -141,3 +141,5 @@
 #### @Resource
 1. @Resource == @Autowired 根据属性进行注入
 2. @Resource(name = "***"） == @Autowired + @Qulifier(value = "***")根据名称进行注入
+![image](https://user-images.githubusercontent.com/87599765/148570325-16cd0ae6-697e-4146-ae9a-e6c2613137e1.png)
+![image](https://user-images.githubusercontent.com/87599765/148570412-c9c9e35c-28c1-4c7d-b747-b25b3e06452d.png)
