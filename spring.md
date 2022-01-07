@@ -106,7 +106,10 @@
 |外部属性文件连接|![image](https://user-images.githubusercontent.com/87599765/148412633-e3d3979c-f12e-4f80-a4a8-9a183ad7f28d.png)|
 
 #### 基于注解完成对象创建、属性注入
-- spring里的注解：@Component @Service @Contorller @Repository  
+- spring里的组件扫描注解：@Component @Service @Contorller @Repository  
+- spring里的属性注入注解：@AutoWired @Qualifier @Resource
+![image](https://user-images.githubusercontent.com/87599765/148564836-4170c627-f66b-4c85-803f-b4cea14a67e4.png)
+
 #### 
 |完整步骤|图示|
 |---|---|
