@@ -137,3 +137,7 @@
 ####
 #### 指定属性注入的实现类--autowired配合qualifier使用
 ![image](https://user-images.githubusercontent.com/87599765/148569433-e9d171da-6e48-41ec-acba-178b4c088600.png)
+
+#### @Resource
+1. @Resource == @Autowired 根据属性进行注入
+2. @Resource(name = "***"） == @Autowired + @Qulifier(value = "***")根据名称进行注入
