@@ -13,3 +13,4 @@
 |创建接口|![image](https://user-images.githubusercontent.com/87599765/148634763-ec308478-6141-485e-b3b8-16c6945ffe2d.png)|
 |创建接口实现类|![image](https://user-images.githubusercontent.com/87599765/148634768-0ac63579-8b2a-4bb2-a722-ceba880a8963.png)|
 |创建代理对象|![image](https://user-images.githubusercontent.com/87599765/148634896-65c6683e-dfa5-4ffb-8237-720a3269289d.png)|
+|结果演示|![image](https://user-images.githubusercontent.com/87599765/148634919-f3b7b214-348f-4239-937f-e9b3b0ce72e4.png)|
