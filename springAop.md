@@ -28,3 +28,12 @@
 >> 2.语法结构：execution(【权限修饰符】【返回类型】【类全路径】【方法名称】(【参数列表】))
 ![image](https://user-images.githubusercontent.com/87599765/148636140-96e485b3-6e6d-4a19-a97d-b1f7b2bee99b.png)
 ![image](https://user-images.githubusercontent.com/87599765/148636200-1a400c49-6fa5-42ef-ada0-e2a72adc4b86.png)
+
+## AOP -- AspectJ注解
+|...|图示|
+|---|---|
+|1.创建User类，添加组件扫描|![image](https://user-images.githubusercontent.com/87599765/148649379-70e0c06e-c4e3-44c0-9743-52fc9bfd64ed.png)|
+|2.创建UserProxy代理对象类,添加组件扫描，添加生成代理对象|![image](https://user-images.githubusercontent.com/87599765/148649477-567c9274-2cbd-458b-91f0-a571f275bb9f.png)|
+|3.创建bean.xml,添加名称空间context、aop，开启组件扫描、开启Aspect生成代理对象|![image](https://user-images.githubusercontent.com/87599765/148649565-55c8fe67-3fc0-42f2-8121-673d633673c9.png)|
+|测试结果|![image](https://user-images.githubusercontent.com/87599765/148649579-0178a0b5-e72c-4bf4-90a2-3d465e8e758b.png)|
+|异常时结果|![image](https://user-images.githubusercontent.com/87599765/148649606-84bab4ab-7f66-46bf-9f93-ad302c5767fc.png)|
