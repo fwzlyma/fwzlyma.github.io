@@ -42,3 +42,8 @@
 > 多个代理对象执行，设置优先级：![image](https://user-images.githubusercontent.com/87599765/148650301-5c77c868-3641-40f8-ab29-d1ff913874e0.png)![image](https://user-images.githubusercontent.com/87599765/148650327-468b0544-9118-4433-ad86-8ea0f6e25c5b.png)
 
 ### AOP -- Aspect配置文件 （了解）
+|过程|图示|
+|---|---|
+|1.创建被增强类Book|![image](https://user-images.githubusercontent.com/87599765/148651038-77d30de5-8ffc-491b-abf2-ceb9c06bdf38.png)|
+|2.创建增强类BookProxy|![image](https://user-images.githubusercontent.com/87599765/148651053-e3a7cabc-6ab5-40e2-bba9-612d475da465.png)|
+|3.创建bean2.xml配置文件配置AOP|![image](https://user-images.githubusercontent.com/87599765/148651098-c27d67bf-54c4-44d4-96ed-49888d1b13df.png)|
