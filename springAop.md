@@ -37,3 +37,4 @@
 |3.创建bean.xml,添加名称空间context、aop，开启组件扫描、开启Aspect生成代理对象|![image](https://user-images.githubusercontent.com/87599765/148649565-55c8fe67-3fc0-42f2-8121-673d633673c9.png)|
 |测试结果|![image](https://user-images.githubusercontent.com/87599765/148649579-0178a0b5-e72c-4bf4-90a2-3d465e8e758b.png)|
 |异常时结果|![image](https://user-images.githubusercontent.com/87599765/148649606-84bab4ab-7f66-46bf-9f93-ad302c5767fc.png)|
+|相同切入点抽取|![image](https://user-images.githubusercontent.com/87599765/148650042-eba84c67-57e3-4d2c-81ef-aff4139db0ad.png)|
