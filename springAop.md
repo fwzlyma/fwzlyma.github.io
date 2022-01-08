@@ -17,3 +17,9 @@
 
 ## AOP术语
 ![image](https://user-images.githubusercontent.com/87599765/148635098-3a117380-65e5-49d3-83f1-1c1e4368c1e6.png)
+
+## AOP操作准备
+1. AspectJ.独立于AOP框架，将AspectJ和Spring结合进行AOP操作。
+2. 基于AspectJ实现AOP两种方式：（1）xml配置文件 （2）注解
+3. 准备jar包
+![image](https://user-images.githubusercontent.com/87599765/148635471-bb50f0e4-b7f9-4b33-ae9d-460d74220b66.png)
