@@ -39,4 +39,5 @@
 |异常时结果|![image](https://user-images.githubusercontent.com/87599765/148649606-84bab4ab-7f66-46bf-9f93-ad302c5767fc.png)|
 |相同切入点抽取|![image](https://user-images.githubusercontent.com/87599765/148650042-eba84c67-57e3-4d2c-81ef-aff4139db0ad.png)|
 
-> 多个代理对象执行，设置优先级：![image](https://user-images.githubusercontent.com/87599765/148650301-5c77c868-3641-40f8-ab29-d1ff913874e0.png)
+> 多个代理对象执行，设置优先级：![image](https://user-images.githubusercontent.com/87599765/148650301-5c77c868-3641-40f8-ab29-d1ff913874e0.png)![image](https://user-images.githubusercontent.com/87599765/148650327-468b0544-9118-4433-ad86-8ea0f6e25c5b.png)
+
