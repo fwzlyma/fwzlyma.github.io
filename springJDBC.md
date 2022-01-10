@@ -19,12 +19,16 @@
 |4.测试|![image](https://user-images.githubusercontent.com/87599765/148727774-07854dcf-1802-477d-99d6-fbaa87fa9664.png)|
 |问题解决|![image](https://user-images.githubusercontent.com/87599765/148727904-0ef71b70-83ec-4b17-94b9-d6cdc9098b52.png)![image](https://user-images.githubusercontent.com/87599765/148727953-b98b0829-6f60-4904-898b-c860bbada823.png)|
 
+<br><br/>
+
 ### Jdbc操作数据库--修改、删除数据、查询记录总数
 |...|图示|
 |---|---|
 |1|![image](https://user-images.githubusercontent.com/87599765/148731691-7a501fea-56b8-4a06-b143-ec15bfee948b.png)|
 |2|![image](https://user-images.githubusercontent.com/87599765/148731736-fb6f2a45-ac4b-45c0-b1ce-e1d6d7e2f8dd.png)|
 |3|![image](https://user-images.githubusercontent.com/87599765/148731855-83201e82-0202-48e6-9430-61ba45cd60d8.png)|
+
+<br><br/>
 
 ### Jdbc查询返回对象
 ![image](https://user-images.githubusercontent.com/87599765/148777684-f01bc9e0-0fc0-4210-9cd5-90333f444d80.png)
@@ -36,6 +40,8 @@
 |2.BookDao|![image](https://user-images.githubusercontent.com/87599765/148779725-02eb7c82-5001-442f-a81a-93fbe8f31a40.png)|
 |3.BookDaoImpl|![image](https://user-images.githubusercontent.com/87599765/148779848-2034a816-bea9-4c16-ad6b-fd20fe1cfb37.png)|
 |4.test|![image](https://user-images.githubusercontent.com/87599765/148779963-960424e6-7bdf-4edf-8045-da1238d41793.png)|
+
+<br><br/>
 
 ### Jdbc查询返回集合
 ![image](https://user-images.githubusercontent.com/87599765/148778776-9129a1bc-3b03-43aa-bcb7-d8f688ffb8c0.png)
