@@ -23,3 +23,6 @@
 |1|![image](https://user-images.githubusercontent.com/87599765/148731691-7a501fea-56b8-4a06-b143-ec15bfee948b.png)|
 |2|![image](https://user-images.githubusercontent.com/87599765/148731736-fb6f2a45-ac4b-45c0-b1ce-e1d6d7e2f8dd.png)|
 |3|![image](https://user-images.githubusercontent.com/87599765/148731855-83201e82-0202-48e6-9430-61ba45cd60d8.png)|
+
+### Jdbc查询返回对象
+![image](https://user-images.githubusercontent.com/87599765/148777684-f01bc9e0-0fc0-4210-9cd5-90333f444d80.png)
