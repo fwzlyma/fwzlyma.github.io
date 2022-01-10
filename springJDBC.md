@@ -8,7 +8,7 @@
 |5.创建BookService添加注解并将BookDao注入|![image](https://user-images.githubusercontent.com/87599765/148723424-262d7324-07bf-45e5-897c-4f8381dd1266.png)|
 |6.配置组件扫描|![image](https://user-images.githubusercontent.com/87599765/148723483-4b087081-7d24-4996-9a3a-01f3fa95150c.png)|
 
-### Jdbc操作数据库
+### Jdbc操作数据库--向t_book表添加数据
 |流程|图示|
 |---|---|
 |1.BookService添加操作数据库方法|![image](https://user-images.githubusercontent.com/87599765/148727594-793526fb-fce8-47c7-a169-e3dc843f07e5.png)|
