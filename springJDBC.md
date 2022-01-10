@@ -53,3 +53,15 @@
 |2.BookDao|![image](https://user-images.githubusercontent.com/87599765/148780169-8760196e-943a-4080-9ba9-a28f120fd015.png)|
 |3.BookDaoImpl|![image](https://user-images.githubusercontent.com/87599765/148780269-3f7fd9c4-7a69-4c70-be6b-5a7ad1ae34fb.png)|
 |4.test|![image](https://user-images.githubusercontent.com/87599765/148780339-efc6c5f4-4571-4825-a851-4955b8a2c3de.png)|
+
+<br><br/>
+
+### Jdbc 添加批量数据
+> 详细流程  
+### 
+|...|图示|
+|---|---|
+|1.BookService|![image](https://user-images.githubusercontent.com/87599765/148784097-b9c68909-37dd-4505-a77e-0c8f0bbfc462.png)|
+|2.BookDao|![image](https://user-images.githubusercontent.com/87599765/148784145-ab552ab2-56c6-40f2-976c-450a30a9414d.png)|
+|3.BookDaoImpl|![image](https://user-images.githubusercontent.com/87599765/148784269-eec913e1-c9ab-4028-9158-53af0973d6c5.png)|
+|4.test|![image](https://user-images.githubusercontent.com/87599765/148784338-d2e2f7ab-cdd5-46dd-9c2f-9347d8e92e58.png)|
