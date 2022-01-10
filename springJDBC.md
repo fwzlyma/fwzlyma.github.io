@@ -26,3 +26,9 @@
 
 ### Jdbc查询返回对象
 ![image](https://user-images.githubusercontent.com/87599765/148777684-f01bc9e0-0fc0-4210-9cd5-90333f444d80.png)
+> 详细流程
+|...|图示|
+|---|---|
+
+### Jdbc查询返回集合
+![image](https://user-images.githubusercontent.com/87599765/148778776-9129a1bc-3b03-43aa-bcb7-d8f688ffb8c0.png)
