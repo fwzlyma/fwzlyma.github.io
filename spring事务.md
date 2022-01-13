@@ -17,3 +17,4 @@
 
 ### 事务注解@Transactional()参数详解
 ![image](https://user-images.githubusercontent.com/87599765/149338665-fcd6dbae-4456-44d6-a0cc-359be344e7bb.png)
+![image](https://user-images.githubusercontent.com/87599765/149338844-cc4bba4b-5f89-4e7c-8646-da0d5c8acff7.png)
