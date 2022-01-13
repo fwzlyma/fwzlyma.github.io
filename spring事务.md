@@ -22,3 +22,4 @@
 |2.propagation--事务传播行为|![image](https://user-images.githubusercontent.com/87599765/149338844-cc4bba4b-5f89-4e7c-8646-da0d5c8acff7.png)|
 |3.isolation--事务隔离级别|
 
+- 脏读：一个未提交事务读取到另一个未提交事务的数据![image](https://user-images.githubusercontent.com/87599765/149356952-6c5c49d8-462f-49f5-b147-35f4b1234952.png)
