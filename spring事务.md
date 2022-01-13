@@ -23,8 +23,8 @@
 |3.isolation--事务隔离级别||
 |4.timeout--超时时间|![image](https://user-images.githubusercontent.com/87599765/149359385-d544a283-9f71-4bb1-95fb-da025da40bc3.png)|
 |5.readOnly--是否只读|![image](https://user-images.githubusercontent.com/87599765/149359721-60cb94ec-0c4c-499d-a106-6b59fcdd77b5.png)|
-|6.rollbackFor--回滚||
-|7.noRollbackFor--不回滚||
+|6.rollbackFor--回滚|设置出现哪些异常进行回滚|
+|7.noRollbackFor--不回滚|设置出现哪些异常不进行回滚|
 
 - 脏读：一个未提交事务读取到另一个未提交事务的数据![image](https://user-images.githubusercontent.com/87599765/149356952-6c5c49d8-462f-49f5-b147-35f4b1234952.png)
 - 不可重复读：一个未提交事务读取到另一提交事务修改数据![image](https://user-images.githubusercontent.com/87599765/149357962-ca1375b9-7963-4142-a88a-ec8e0483309f.png)
