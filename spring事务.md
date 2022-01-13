@@ -12,3 +12,8 @@
 |2.2引入tx名称空间|![image](https://user-images.githubusercontent.com/87599765/149336044-6ced4bfa-289d-402d-9995-0a257cc65433.png)|
 |2.3开启事务注解|![image](https://user-images.githubusercontent.com/87599765/149336202-285fbdbb-692c-433a-ad38-d43110d9d94f.png)|
 |3.添加事务注解（加到类上所有方法适用，加到方法上单个方法适用）|![image](https://user-images.githubusercontent.com/87599765/149336386-4e88cb29-d653-4684-8b45-3ecc6bae4498.png)|
+
+<br><br/>
+
+### 事务注解@Transactional()参数详解
+![image](https://user-images.githubusercontent.com/87599765/149338665-fcd6dbae-4456-44d6-a0cc-359be344e7bb.png)
