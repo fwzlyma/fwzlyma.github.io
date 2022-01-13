@@ -20,7 +20,11 @@
 |---|---|
 |1.有哪些？|![image](https://user-images.githubusercontent.com/87599765/149338665-fcd6dbae-4456-44d6-a0cc-359be344e7bb.png)|
 |2.propagation--事务传播行为|![image](https://user-images.githubusercontent.com/87599765/149338844-cc4bba4b-5f89-4e7c-8646-da0d5c8acff7.png)|
-|3.isolation--事务隔离级别|
+|3.isolation--事务隔离级别||
+|4.timeout--超时时间|![image](https://user-images.githubusercontent.com/87599765/149359385-d544a283-9f71-4bb1-95fb-da025da40bc3.png)|
+|5.readOnly--是否只读||
+|6.rollbackFor--回滚||
+|7.noRollbackFor--不回滚||
 
 - 脏读：一个未提交事务读取到另一个未提交事务的数据![image](https://user-images.githubusercontent.com/87599765/149356952-6c5c49d8-462f-49f5-b147-35f4b1234952.png)
 - 不可重复读：一个未提交事务读取到另一提交事务修改数据![image](https://user-images.githubusercontent.com/87599765/149357962-ca1375b9-7963-4142-a88a-ec8e0483309f.png)
