@@ -22,7 +22,7 @@
 |2.propagation--事务传播行为|![image](https://user-images.githubusercontent.com/87599765/149338844-cc4bba4b-5f89-4e7c-8646-da0d5c8acff7.png)|
 |3.isolation--事务隔离级别||
 |4.timeout--超时时间|![image](https://user-images.githubusercontent.com/87599765/149359385-d544a283-9f71-4bb1-95fb-da025da40bc3.png)|
-|5.readOnly--是否只读||
+|5.readOnly--是否只读|![image](https://user-images.githubusercontent.com/87599765/149359721-60cb94ec-0c4c-499d-a106-6b59fcdd77b5.png)|
 |6.rollbackFor--回滚||
 |7.noRollbackFor--不回滚||
 
