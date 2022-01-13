@@ -24,3 +24,6 @@
 
 - 脏读：一个未提交事务读取到另一个未提交事务的数据![image](https://user-images.githubusercontent.com/87599765/149356952-6c5c49d8-462f-49f5-b147-35f4b1234952.png)
 - 不可重复读：一个未提交事务读取到另一提交事务修改数据![image](https://user-images.githubusercontent.com/87599765/149357962-ca1375b9-7963-4142-a88a-ec8e0483309f.png)
+- 虚读：一个未提交事务读取另一提交事务添加数据
+- 解决：通过设置事务隔离级别，解决读问题。![image](https://user-images.githubusercontent.com/87599765/149358657-cb78e24b-0eef-475d-a1a6-3634c1673b46.png)
+
